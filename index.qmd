@@ -1,7 +1,15 @@
 ---
-title: "web2"
+title: "Chemical Process Engineering Consulting"
 ---
 
-This is a Quarto website.
+Dave Humbird
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Denver, Colorado
+
+Process Simulation, Techno-Economic Analysis and Physical Modeling
+
+::: column-margin
+This is a column-margin note.
+:::
+
+{{< fa thumbs-up >}} 

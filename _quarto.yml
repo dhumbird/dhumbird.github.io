@@ -2,12 +2,23 @@ project:
   type: website
 
 website:
-  title: "web2"
+  title: "DWH Process Consulting"
   navbar:
+    background: primary
+    search: true
+    right:
+      - text: "{{< fa brands orcid size=lg >}}"
+        href: https://orcid.org/0000-0002-7885-1871
+      - text: "{{< fa brands github size=lg >}}"
+        href: https://github.com/dhumbird
+      - text: "{{< fa brands linkedin size=lg >}}"
+        href: https://www.linkedin.com/in/david-humbird-phd-pe-0455a249/
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Blog"
+        file: "./blog/index.qmd"
+      - contact.qmd 
 
 format:
   html:

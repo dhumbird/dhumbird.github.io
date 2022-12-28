@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+Dave Humbird / Denver, Colorado
+
+```{r, echo=FALSE}
+htmltools::includeHTML("contactform.html")
+```
