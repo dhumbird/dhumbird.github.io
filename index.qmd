@@ -1,15 +1,70 @@
 ---
-title: "Chemical Process Engineering Consulting"
+title: "DWH Process Consulting, LLC"
+sidebar: false
 ---
 
-Dave Humbird
+<!-- ::: {.column-page-right} -->
 
-Denver, Colorado
+# Bio/Chemical Process Engineering Consulting
 
-Process Simulation, Techno-Economic Analysis and Physical Modeling
-
-::: column-margin
-This is a column-margin note.
+::: {style="text-align: center;"}
+![](./images/logo2026.svg){width=200px}
 :::
 
-{{< fa thumbs-up >}} 
+::: {style="text-align: center; font-size: 1.3em;"}
+Dave Humbird, PhD, PE
+
+Denver, Colorado, USA
+:::
+---
+
+## About
+DWH Process Consulting provides conceptual process design, simulation, and techno-economic analysis expertise to research institutions and startups. DWH also supports technical due diligence for commercial and philanthropic investors. Target sectors include renewable fuels/chemicals/power, industrial biotechnology, olefins and specialty chemicals, refinery and heavy industry decarbonization, CO2 capture, and fermented/distilled beverages.
+
+---
+
+## Expertise and Services Offered
+
+### Process Simulation
+* Aspen Plus - Aspen Custom Modeler - HYSYS
+* Physical property fitting and estimation
+* Distillation design and optimization
+
+### Techno-Economic Analysis
+* Conceptual process design - Heat and material balances - BFDs and PFDs
+* Preliminary equipment sizing + Aspen Capital Cost Estimator 
+
+
+### Scientific Computing
+* Excel + VBA power user
+* Occasional use of Python for data analysis and visualization
+* Past experience with C++, computational fluid dynamics, molecular dynamics, data science and machine learning
+
+---
+
+## Typical Project Descriptions
+* Chemical engineering simulation subject matter expert: reactor and distillation modeling, physical property development, and capital cost estimation. DWH carries a license for the AspenTech products named above.
+* Sustainability modeling specialist, delivering flowsheet simulations and physical modeling for renewable power, biomass conversion, hydrogen economy, CO2 capture, desalination, and other processes.
+* Techno-economic analysis for early-stage (TRL 1-3) process-industry startups.
+* Technical due diligence analysis for sustainability investors and philanthropic organizations.
+* Training and mentoring engineering staff to grow in-house simulation and analysis skills.
+
+---
+
+## Contact DWH Process Consulting
+
+```{r, echo=FALSE}
+htmltools::includeHTML("contactfrag.html")
+```
+
+---
+
+## Connect
+
+Find me on:
+- **ORCID:** [0000-0002-7885-1871](https://orcid.org/0000-0002-7885-1871)
+- **GitHub:** [@dhumbird](https://github.com/dhumbird)
+- **LinkedIn:** [Dave Humbird, PhD, PE](https://www.linkedin.com/in/dave-humbird-0455a249/)
+
+<!-- ::: -->
+

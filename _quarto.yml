@@ -3,28 +3,24 @@ project:
 
 website:
   title: "DWH Process Consulting"
+  page-navigation: false
   navbar:
-    background: primary
-    search: true
+    background: light
+    search: false
     right:
       - text: "{{< fa brands orcid size=lg >}}"
         href: https://orcid.org/0000-0002-7885-1871
       - text: "{{< fa brands github size=lg >}}"
         href: https://github.com/dhumbird
       - text: "{{< fa brands linkedin size=lg >}}"
-        href: https://www.linkedin.com/in/david-humbird-phd-pe-0455a249/
-    left:
-      - text: "Home"
-        file: index.qmd
-      - text: "Blog"
-        file: "./blog/index.qmd"
-      - contact.qmd 
+        href: https://www.linkedin.com/in/dave-humbird-0455a249/
 
 format:
   html:
-    theme: cosmo
+    light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+    dark: [cosmo, theme-dark.scss]
     css: styles.css
-    toc: true
+    toc: false
 
 
 

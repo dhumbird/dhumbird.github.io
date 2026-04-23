@@ -1,4 +1,7 @@
 /.quarto/
 /_site/
-
+/.vs/
 /.luarc.json
+/blog/
+/BioTEA/
+**/*.quarto_ipynb

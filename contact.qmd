@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-Dave Humbird / Denver, Colorado
+Dave Humbird / Denver, Colorado USA
 
 ```{r, echo=FALSE}
 htmltools::includeHTML("contactform.html")
